@@ -1,5 +1,5 @@
 # protein_model_list
----
+
 
 ### **Transformer-Based Models**
 
@@ -22,7 +22,7 @@
 - **Applications**: Protein fitness landscape modeling and sequence generation.
 - **Reference**: ReLSO Preprint (link required)
 
----
+
 
 ### **VAE-Based Models**
 
@@ -39,7 +39,7 @@
 - **Focus**: De novo protein design with specific functional properties.
 - **Reference**: [ProteinGAN Paper](https://arxiv.org/abs/2012.02134)
 
----
+
 
 ### **Diffusion-Based Models**
 
@@ -60,4 +60,3 @@
 - **Applications**: Drug discovery and protein interaction studies.
 - **Reference**: [DiffDock Paper](https://arxiv.org/abs/2203.04119)
 
----
