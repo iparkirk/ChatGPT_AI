@@ -2,8 +2,8 @@ title: ChatGPT Generated AI Contents
 description: collection
 theme: minima
 
-# Set URL structure for links
-permalink: pretty
+# Disable top navigation menu
+navigation: []
 
 # Enable Markdown rendering
 markdown: kramdown
