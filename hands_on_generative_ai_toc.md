@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hands-On Generative AI - Table of Contents
+hidden: true
 ---
 
 ## Part I: Leveraging Open Models
