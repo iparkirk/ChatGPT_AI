@@ -1,5 +1,7 @@
-
-# Hands-On Generative AI - Table of Contents
+---
+layout: default
+title: Hands-On Generative AI - Table of Contents
+---
 
 ## Part I: Leveraging Open Models
 
