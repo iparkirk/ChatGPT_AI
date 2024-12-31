@@ -1,2 +1,9 @@
+title: ChatGPT Generated AI Contents
+description: collection
 theme: minima
-title: ChatGPT Generated AI documents
+
+# Set URL structure for links
+permalink: pretty
+
+# Enable Markdown rendering
+markdown: kramdown
