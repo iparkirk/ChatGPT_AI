@@ -1,6 +1,5 @@
 title: ChatGPT Generated AI Contents
 theme: minima
 
-# Disable top navigation menu
-navigation: []
+header_pages: [''] 
 
