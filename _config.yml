@@ -5,5 +5,3 @@ theme: minima
 # Disable top navigation menu
 navigation: []
 
-# Enable Markdown rendering
-markdown: kramdown
